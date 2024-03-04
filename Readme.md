@@ -45,4 +45,6 @@ Keresünk egy `<div id="id_test">szöveg</div>`-et, akkor a config fájlba a kö
     "title",
     "div.navbar-item-text",
     "div#navbarSupportedContent",
-    "di
+    "div#shopify-section-header"
+]
+```
